@@ -23,6 +23,3 @@ Gmail (New Email) → Filter (URGENT) → Google Sheets → Email Notification
 - Missing fields in Google Sheets mapping
 - Formatter output not showing due to step order
 
-
-## 🎥 Demo
-(Add Loom video link here)
