@@ -1,25 +1,48 @@
 # Email Priority Automation System (Zapier)
 
 ## Overview
-This project automates email handling using Zapier by filtering important emails and triggering actions.
+This project automates email handling using Zapier by filtering important emails and triggering actions like data storage and notifications.
 
-## Workflow
-Gmail (New Email) → Filter (URGENT) → Google Sheets → Email Notification
+---
+
+##  Key Highlights
+- Built a multi-step automation workflow using Zapier
+- Implemented conditional logic to process only high-priority emails
+- Integrated Gmail and Google Sheets
+- Used Formatter by Zapier for dynamic date/time handling
+- Debugged issues using test records and task history
+
+---
+
+##  Workflow
+Gmail (New Email) → Filter (URGENT) → Google Sheets → Formatter → Email Notification
+
+---
 
 ## Features
-- Filters high-priority emails using subject conditions
-- Stores email data in Google Sheets
+- Filters emails based on subject keyword
+- Stores email details in Google Sheets
 - Sends real-time notifications
-- Uses Formatter to generate current timestamps
+- Formats current date/time dynamically
 
-## What I Learned
-- Building automation workflows using Zapier
-- Data mapping between apps
-- Debugging using test records and task history
-- Handling filter conditions and edge cases
+---
+
+##  What I Learned
+- Building automation workflows
+- Data mapping between applications
+- Debugging automation failures
+- Using conditional logic and formatting tools
+
+---
 
 ## Debugging Scenarios
-- Filter not passing due to incorrect test data
-- Missing fields in Google Sheets mapping
-- Formatter output not showing due to step order
+- Filter not working due to incorrect test data
+- Missing fields in mapping
+- Formatter output not appearing due to step order
 
+---
+
+## 📸 Screenshots
+(Already Added)
+
+---
